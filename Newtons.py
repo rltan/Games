@@ -1,4 +1,4 @@
-import BoardGame.Board as bg
+import Board as bg
 import sys
 
 

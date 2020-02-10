@@ -22,7 +22,3 @@ class Board(object):
         for y in range(self.height):
             print(self.board[y])
 
-
-if __name__ == "__main__":
-    board = Board(7, 7)
-    board.print_board()
